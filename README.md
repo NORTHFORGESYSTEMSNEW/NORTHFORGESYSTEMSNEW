@@ -64,7 +64,7 @@ Welcome to the new world. We forge the unbreakable and engineer the impossible.
 
 ## 📬 Connectivity & OpSec
 
-- **Internal Proxy:** `root@3bi2q70m.anonaddy.me`
+- **Internal Proxy:** `northforgesystems1@gmail.com`
 - **Global Gateway:** [northforgesystems1@gmail.com](mailto:northforgesystems1@gmail.com)
 - **Status:** `[MISSION_CRITICAL_ACTIVE]`
 
