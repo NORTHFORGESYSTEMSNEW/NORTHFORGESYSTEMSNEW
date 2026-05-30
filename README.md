@@ -59,10 +59,10 @@ Welcome to the new world. We forge the unbreakable and engineer the impossible.
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=NORTHFORGESYSTEMSNEW&show_icons=true&theme=tokyonight&count_private=true" alt="NorthForge GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NORTHFORGESYSTEMSNEW&show_icons=true&theme=tokyonight&count_private=true" alt="NorthForge GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORTHFORGESYSTEMSNEW&theme=tokyonight&layout=compact" alt="NorthForge Top Languages" width="100%" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NORTHFORGESYSTEMSNEW&theme=tokyonight&layout=compact" alt="NorthForge Top Languages" width="100%" />
       </td>
     </tr>
   </table>
