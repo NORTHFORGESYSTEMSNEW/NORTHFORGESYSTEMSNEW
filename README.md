@@ -55,11 +55,19 @@ Welcome to the new world. We forge the unbreakable and engineer the impossible.
 
 ## 📈 Intelligence Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NORTHFORGESYSTEMSNEW&show_icons=true&theme=tokyonight&count_private=true" width="49%" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORTHFORGESYSTEMSNEW&theme=tokyonight&layout=compact" width="49%" align="right" />
-</p>
-<br clear="both"/>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=NORTHFORGESYSTEMSNEW&show_icons=true&theme=tokyonight&count_private=true" alt="NorthForge GitHub Stats" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NORTHFORGESYSTEMSNEW&theme=tokyonight&layout=compact" alt="NorthForge Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 ---
